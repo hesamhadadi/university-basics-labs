@@ -1,0 +1,15 @@
+# Node / npm
+node_modules/
+npm-debug.log
+
+# Java
+*.class
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Vue / build
+dist/
+build/
